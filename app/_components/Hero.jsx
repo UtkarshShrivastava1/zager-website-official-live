@@ -18,7 +18,7 @@ export default function Hero() {
         className="md:mt-8 mt-4 font-times flex flex-col font-bold bg-gradient-to-br from-slate-50 to-slate-300  bg-clip-text text-center text-4xl tracking-tight text-transparent md:text-8xl md:text-"
       >
         <span>ZAGER</span>
-        <span className="md:text-4xl ">DIGITAL&nbsp; SERVICES</span>
+        <span className="md:text-4xl ">DIGTAL&nbsp; SERVICES</span>
         <div className="mt-2 bg-white px-4 py-1">
           <HeroTypewriter />
         </div>
